@@ -1,4 +1,4 @@
-package cursoJava;
+package cursoJava.introducaoEstruturaSequencial;
 
 import java.util.Locale;
 
