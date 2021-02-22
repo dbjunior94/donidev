@@ -1,20 +1,6 @@
 
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-C
-cursoJava/Main.java,2/5/252cdb2c0863ef7bdcd8d22f65037b1eaca428c5
-F
-cursoJava/Project.java,4/f/4f43141f936149dd18ba4aa63caac68e9c31940d
-F
-cursoJava/Casting.java,0/b/0b490c5c7a44544fb36966755e145913bbaf8d46
-K
-cursoJava/EntradaDados.java,2/8/2888b30932bcf96fbc1d95845e89c89e79f3f44e
-L
-cursoJava/EntradaDados2.java,e/a/ea67751b6989a4f18eef1e2d21649600a02886db
-I
-cursoJava/FuncoesMat.java,e/5/e5ca9fa494ead5798487e9e1e0bd4355e29156f9
-E
-cursoJava/Exerc1.java,7/6/7647886ed202255a22f9524ac2960c0d42ea061a
 j
 :cursoJava/introducaoEstruturaSequencial/EntradaDados2.java,4/4/44f24454066bbad3cff3c693b348d75f2f016105
 d
@@ -39,3 +25,15 @@ c
 3cursoJava/introducaoEstruturaSequencial/Exerc5.java,2/2/223e9e98baf800d5a9db9a332adc538840885669
 c
 3cursoJava/introducaoEstruturaSequencial/Exerc6.java,7/0/70347c8cc3958ce5d64bac63fafbf7698e6b026c
+]
+-cursoJava/estruturaCondicional/IFSimples.java,6/f/6fb5e64512dbda833e0324e0927bda9ea8e0dd96
+^
+.cursoJava/estruturaCondicional/IFComposto.java,9/5/95628815275fa262dbd40022e635b07736dbc20f
+Z
+*cursoJava/estruturaCondicional/Exerc1.java,b/0/b05e5987471a207d9386bb8a05261c66b87d7856
+Z
+*cursoJava/estruturaCondicional/Exerc2.java,a/a/aa5d977b11c915d4fa97eba7dc220cff95a1258b
+Z
+*cursoJava/estruturaCondicional/Exerc3.java,7/b/7b4a4b327fc72fbe8fdc0227d399ed49aa51ec42
+Z
+*cursoJava/estruturaCondicional/Exerc4.java,5/e/5ecf6ee692e0bc3a2be2d16b226aa9a270953b45

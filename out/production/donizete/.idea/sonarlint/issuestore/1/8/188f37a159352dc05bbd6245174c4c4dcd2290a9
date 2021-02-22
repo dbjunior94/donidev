@@ -1,0 +1,16 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(˜úß8„„¼¹ú.
+;
+java:S1659	"Declare "B" on a separate line.(¡ú‚V8 Àü¸ú.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(œ˜Œ8úÒŠ¹ú.
+l	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ú‚V8 Àü¸ú.
+l	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ú‚V8 Àü¸ú.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ğá¬8ô‹¬¹ú.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ºšÇµ8ü—š¹ú.
+;
+java:S1659	"Declare "C" on a separate line.(¡ú‚V8 Àü¸ú.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¡ƒÈ«8Éƒ”¹ú.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÕÏş8»»³¹ú.
+l	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ú‚V8˜÷û¸ú.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(í¯¾Ìÿÿÿÿÿ8Ş˜¾¹ú.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¨©»Îıÿÿÿÿ8ƒÆ¹ú.
