@@ -37,3 +37,9 @@ Z
 *cursoJava/estruturaCondicional/Exerc3.java,7/b/7b4a4b327fc72fbe8fdc0227d399ed49aa51ec42
 Z
 *cursoJava/estruturaCondicional/Exerc4.java,5/e/5ecf6ee692e0bc3a2be2d16b226aa9a270953b45
+Z
+*cursoJava/estruturaCondicional/Exerc5.java,3/0/30bf7eb698cb10d55a1cb4a199fdff569c2c0681
+Z
+*cursoJava/estruturaCondicional/Exerc6.java,e/0/e0c0b27ab58149015ee9408f599393b3a126c12e
+Z
+*cursoJava/estruturaCondicional/Exerc7.java,f/d/fd90491e59e8fb2df1d800d265b5b87bf0f54c57
