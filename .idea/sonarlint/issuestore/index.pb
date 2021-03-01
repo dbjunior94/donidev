@@ -43,3 +43,13 @@ Z
 *cursoJava/estruturaCondicional/Exerc6.java,e/0/e0c0b27ab58149015ee9408f599393b3a126c12e
 Z
 *cursoJava/estruturaCondicional/Exerc7.java,f/d/fd90491e59e8fb2df1d800d265b5b87bf0f54c57
+Z
+*cursoJava/estruturaCondicional/Exerc8.java,6/b/6bd1fd1c1958d1933b2cbcca65241bb67bc8235f
+Y
+)cursoJava/estruturaCondicional/Conta.java,a/7/a7bf9378ae0d4bbccd3278f1a12ff8fb8cced8c1
+^
+.cursoJava/estruturaCondicional/SwitchCase.java,2/2/22de9015b5e9bcad396970826329d55ca8bb5867
+_
+/cursoJava/estruturaCondicional/SwitchCase2.java,b/5/b5d7d0f500e7e2bb8f6cbe965e15da72e019b8d5
+e
+5cursoJava/estruturaCondicional/ExpressaoTernaria.java,0/8/08d19dbde2dd576afeb74b9a247cbf8108998e5b
