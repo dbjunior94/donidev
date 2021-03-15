@@ -1,23 +1,23 @@
 
+I
+java:S1659	"'Declare "triangulo" on a separate line.(°ƒïşúÿÿÿÿ8Í†•‡û.
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(×’ë¹úÿÿÿÿ8µÖšŠû.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(¾İ¯Šúÿÿÿÿ8ì¤º‹û.
-r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ƒïşúÿÿÿÿ8©ª‡û.
-r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ƒïşúÿÿÿÿ8©ª‡û.
+H
+java:S1659	"&Declare "quadrado" on a separate line.(°ƒïşúÿÿÿÿ8±–‡û.
+G
+java:S1659	"%Declare "circulo" on a separate line.(°ƒïşúÿÿÿÿ8Í†•‡û.
 U	java:S106"9Replace this use of System.out or System.err by a logger.(†Ì‡¦8¢­µ‹û.
 A
 java:S1659	"Declare "B" on a separate line.(°ƒïşúÿÿÿÿ8©ª‡û.
-A
-java:S1659	"Declare "C" on a separate line.(°ƒïşúÿÿÿÿ8©ª‡û.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ƒå¯Ã8¶’²‹û.
-I
-java:S1659	"'Declare "retangulo" on a separate line.(°ƒïşúÿÿÿÿ8±–‡û.
-G
-java:S1659	"%Declare "circulo" on a separate line.(°ƒïşúÿÿÿÿ8Í†•‡û.
 H
 java:S1659	"&Declare "trapezio" on a separate line.(°ƒïşúÿÿÿÿ8ÁÅ•‡û.
-I
-java:S1659	"'Declare "triangulo" on a separate line.(°ƒïşúÿÿÿÿ8Í†•‡û.
 U	java:S106"9Replace this use of System.out or System.err by a logger.(Ò‰šò8ò³‹û.
-H
-java:S1659	"&Declare "quadrado" on a separate line.(°ƒïşúÿÿÿÿ8±–‡û.
+A
+java:S1659	"Declare "C" on a separate line.(°ƒïşúÿÿÿÿ8©ª‡û.
+r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ƒïşúÿÿÿÿ8©ª‡û.
+I
+java:S1659	"'Declare "retangulo" on a separate line.(°ƒïşúÿÿÿÿ8±–‡û.
+r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ƒïşúÿÿÿÿ8©ª‡û.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ƒå¯Ã8¶’²‹û.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¾İ¯Šúÿÿÿÿ8ì¤º‹û.
 r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ƒïşúÿÿÿÿ8©ª‡û.
