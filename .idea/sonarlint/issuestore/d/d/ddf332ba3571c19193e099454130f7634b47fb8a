@@ -1,0 +1,24 @@
+
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(¯±Ç­şÿÿÿÿ8Â›¾¹ƒ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‡”ü‘8½¥«¹ƒ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(É“Üâ8¼î·ƒ/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ôÛ‡	8ìÈ©¹ƒ/
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ8×¾—·ƒ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(½Ù’ùÿÿÿÿ8­¿£·ƒ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ä‰Åù8õÁ¼¹ƒ/
+=
+java:S1659
+" Declare "xC" on a separate line.(Çú‚¦8øÆš·ƒ/
+=
+java:S1659
+" Declare "yA" on a separate line.(Çú‚¦8øÆš·ƒ/
+=
+java:S1659
+" Declare "yB" on a separate line.(Çú‚¦8øÆš·ƒ/
+=
+java:S1659
+" Declare "yC" on a separate line.(Çú‚¦8øÆš·ƒ/
+=
+java:S1659
+" Declare "xB" on a separate line.(Çú‚¦8øÆš·ƒ/
