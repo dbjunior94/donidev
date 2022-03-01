@@ -6,12 +6,12 @@ function exec(){
     return saudacao
 }
 
-// Objetos são grupinhos aninhados de pares nome/valor
+// Objetos são grupos aninhados de pares nome/valor
 const cliente = {
     nome: 'Pedro',
     idade: 32,
     peso: 90,
-    endereco: {
+    endereco:{
         logradouro: 'Rua Muito Legal',
         numero: 123
     }

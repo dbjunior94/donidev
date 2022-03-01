@@ -1,7 +1,0 @@
-
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ß±´®8ïÍÿ.
-T	java:S106"9Replace this use of System.out or System.err by a logger.(·êç8®ëšÍÿ.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(À­³áúÿÿÿÿ8ˆ´ Íÿ.
-]
-java:S1128"@Remove this unused import 'jdk.swing.interop.SwingInterOpUtils'.(ñ©Ìë8®ëšÍÿ.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÅÄÕ¹ùÿÿÿÿ8ÉÌ—Íÿ.
