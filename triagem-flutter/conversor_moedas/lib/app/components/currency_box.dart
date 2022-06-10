@@ -2,6 +2,19 @@ import 'package:conversor_moedas/app/models/currency_model.dart';
 import 'package:flutter/material.dart';
 
 class CurrencyBox extends StatelessWidget {
+  final List<CurrencyModel> items;
+  final CurrencyModel selectedItem;
+  final TextEditingController controller;
+  final void Function(CurrencyModel? model) onChanged;
+
+  const CurrencyBox(
+      {Key? key,
+      required this.items,
+      required this.controller,
+      required this.onChanged,
+      required this.selectedItem})
+      : super(key: key);
+
   @override
   Widget build(BuildContext context) {
     return Row(
@@ -9,47 +22,37 @@ class CurrencyBox extends StatelessWidget {
       children: [
         Expanded(
           child: SizedBox(
-            height: 56,
+            height: 58,
             child: DropdownButton<CurrencyModel>(
+                iconEnabledColor: Colors.amber,
                 isExpanded: true,
+                value: selectedItem,
                 underline: Container(
                   height: 1,
                   color: Colors.amber,
                 ),
-                items: [
-                  DropdownMenuItem<CurrencyModel>(
-                    child: Text('Real'),
-                    value: CurrencyModel.getCurrencies()[0],
-                  ),
-                  DropdownMenuItem<CurrencyModel>(
-                    child: Text('Dolar'),
-                    value: CurrencyModel.getCurrencies()[1],
-                  ),
-                ],
-                onChanged: (value) {}),
+                items: items
+                    .map((e) => DropdownMenuItem<CurrencyModel>(
+                        value: e, child: Text(e.name)))
+                    .toList(),
+                onChanged: onChanged),
           ),
         ),
-        SizedBox(
-          width: 10,
-        ),
+        SizedBox(width: 10),
         Expanded(
-            flex: 2,
-            child: TextField(
-                decoration: InputDecoration(
-                    enabledBorder: UnderlineInputBorder(
-                      borderSide: BorderSide(color: Colors.amber),
-                    ),
-                    focusedBorder: UnderlineInputBorder(
-                      borderSide: BorderSide(color: Colors.amber),
-                    )))),
-        SizedBox(
-          height: 50,
+          flex: 2,
+          child: TextField(
+            controller: controller,
+            decoration: InputDecoration(
+              enabledBorder: UnderlineInputBorder(
+                borderSide: BorderSide(color: Colors.amber),
+              ),
+              focusedBorder: UnderlineInputBorder(
+                borderSide: BorderSide(color: Colors.amber),
+              ),
+            ),
+          ),
         ),
-        ElevatedButton(
-          style: ElevatedButton.styleFrom(primary: Colors.amber),
-          onPressed: () {},
-          child: Text('CONVERTER'),
-        )
       ],
     );
   }
