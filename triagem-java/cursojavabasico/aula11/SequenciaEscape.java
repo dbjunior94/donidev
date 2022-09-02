@@ -5,6 +5,8 @@ public class SequenciaEscape {
         //"Hello, World!"
         System.out.println("\"Hello, World!\"\n\r");
 
+        // 1\4
+
         System.out.println("1\\4");
     }
 }
