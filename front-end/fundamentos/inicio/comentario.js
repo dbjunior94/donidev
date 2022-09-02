@@ -9,3 +9,4 @@ console.log('Passo #01'); // mais um exemplo de console.log
  * de múltiplas 
  * linhas!
  */
+console.log('Passo #02');
