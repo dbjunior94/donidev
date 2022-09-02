@@ -3,29 +3,28 @@ package aula10;
 public class Variaveis {
 
     public static void main(String[] args) {
-
-        //convenção Java
+        //Convenção Java
         int idade = 20;
-        String nome = "Doni";
-        String nomeDoMeuCachorro = "Luna" ;
+        String nome = "Donizete";
+        String nomeDoMeuCachorro = "Luna";
+        String ano2014 = "2014";
 
-        // Aceita, mas não utlizado
+        //aceito, mas não utilizado
         int _idade;
         int $idade;
 
-        // não é convenção Java
-        String ano2014 = "2014";
+        //não é convenção Java
         String nome_do_meu_cachorro;
+        String NomeDoMeuCachorro;
+        String nomeDoMeucachorro;
 
         idade = 25;
 
-        // má prática
+        System.out.println("Idade = " +idade);
+        System.out.println("Nome = " +nome);
+
+        //má prática
         int a = 10;
-        String b = "Loiane";
-
-
-        System.out.println("Idade = " + idade);
-        System.out.println("Nome = " + nome);
-
+        String b = "Doni";
     }
 }
