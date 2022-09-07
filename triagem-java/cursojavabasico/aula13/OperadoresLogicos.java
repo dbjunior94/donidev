@@ -2,6 +2,7 @@ package aula13;
 
 public class OperadoresLogicos {
     public static void main(String[] args) {
+
         int valor1 = 1;
         int valor2 = 2;
 
@@ -17,5 +18,8 @@ public class OperadoresLogicos {
         System.out.println(verdadeiro || falso);
         System.out.println(verdadeiro ^ falso);
         System.out.println(!verdadeiro && falso);
+
+
+
     }
 }
