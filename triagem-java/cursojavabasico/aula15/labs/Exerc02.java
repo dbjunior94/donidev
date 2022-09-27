@@ -7,13 +7,14 @@ public class Exerc02 {
 
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("Entre com um número: ");
-        int num = scan.nextInt();
+        System.out.println("Entre com o valor:");
+        int valor = scan.nextInt();
 
-        if(num >= 0){
+        if(valor >= 0){
             System.out.println("O número informado é positivo");
-        } else {
+        }else{
             System.out.println("O número informado é negativo");
         }
+
     }
 }
