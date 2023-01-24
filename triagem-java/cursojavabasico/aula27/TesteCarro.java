@@ -21,7 +21,8 @@ public class TesteCarro {
         double qtdCombustivel10 = van.calcularCombustivel(10);
         double qtdCombustivel15 = van.calcularCombustivel(15);
 
-        System.out.println("qtdCombustivel10 = " +qtdCombustivel10);
-        System.out.println("qtdCombustivel15 = " +qtdCombustivel15);
+        System.out.println("qtdCombustivel10 = " + qtdCombustivel10);
+        System.out.println("qtdCombustivel15 = " + qtdCombustivel15);
     }
+
 }

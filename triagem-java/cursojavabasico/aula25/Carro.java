@@ -1,7 +1,6 @@
 package aula25;
 
 public class Carro {
-
     String marca;
     String modelo;
     int numPassageiros;
