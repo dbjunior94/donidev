@@ -6,7 +6,6 @@ public class Carro {
     private String modelo;
     private int numPassageiros;
     private double capCombustivel;
-    private double consumoCombustivel;
 
     public String getMarca() {
         return marca;
@@ -47,4 +46,8 @@ public class Carro {
     public void setConsumoCombustivel(double consumoCombustivel) {
         this.consumoCombustivel = consumoCombustivel;
     }
+
+    private double consumoCombustivel;
+
+
 }
