@@ -1,6 +1,13 @@
 package aula36;
 
 public class Endereco {
+    private String nomeRua;
+    private String numero;
+    private String complemento;
+    private String cidade;
+    private String estado;
+    private String cep;
+
     public String getNomeRua() {
         return nomeRua;
     }
@@ -48,11 +55,4 @@ public class Endereco {
     public void setCep(String cep) {
         this.cep = cep;
     }
-
-    private String nomeRua;
-    private String numero;
-    private String complemento;
-    private String cidade;
-    private String estado;
-    private String cep;
 }
