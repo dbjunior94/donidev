@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/atribuicaoacumulativa/atribuicaoacumulativa.iml" filepath="$PROJECT_DIR$/atribuicaoacumulativa/atribuicaoacumulativa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/escopo/escopo.iml" filepath="$PROJECT_DIR$/escopo/escopo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estruturacondicional/estruturacondicional.iml" filepath="$PROJECT_DIR$/estruturacondicional/estruturacondicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estruturaderepeticao/estruturaderepeticao.iml" filepath="$PROJECT_DIR$/estruturaderepeticao/estruturaderepeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estruturasequencial/estruturasequencial.iml" filepath="$PROJECT_DIR$/estruturasequencial/estruturasequencial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-udemy.iml" filepath="$PROJECT_DIR$/.idea/java-udemy.iml" />
+    </modules>
+  </component>
+</project>
