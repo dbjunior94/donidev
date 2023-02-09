@@ -1,5 +1,5 @@
-// Armazenado uma função em uma variavel
-const imprimirSoma = function(a, b) {
+// Armazenado uma funcao em uma variavel
+const imprimirSoma = function (a, b){
     console.log(a + b)
 }
 
@@ -12,7 +12,7 @@ const soma = (a, b) => {
 
 console.log(soma(2, 3))
 
-// retorno implícito
+// retorno implícito 
 const subtracao = (a, b) => a - b
 console.log(subtracao(2, 3))
 

@@ -7,11 +7,11 @@ function exec(){
 }
 
 // Objetos são grupos aninhados de pares nome/valor
-const cliente = {
+const cliente  = {
     nome: 'Pedro',
     idade: 32,
     peso: 90,
-    endereco:{
+    endereco: {
         logradouro: 'Rua Muito Legal',
         numero: 123
     }
