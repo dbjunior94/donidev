@@ -1,21 +1,20 @@
-function validarAnoBissexto(ano){
-    if(ano <= 0){
-        return false
-    }else if (ano % 400 == 0){
-        return true
-    }else if (ano % 100 == 0){
-        return false
-    }else if(ano % 4 == 0){
-        return true
-    }else{
-        return false
-    }
-
+function verificarAnoBissexto(ano){
+   if(ano <= 0){
+    console.log(`${ano} não é ano bissexto.`)
+   } else if(ano % 400 == 0){
+    console.log(`${ano} é ano bissexto.`)
+   } else if(ano % 100 == 0){
+    console.log(`${ano} não é ano bissexto.`)
+   }
+   else if(ano % 4 == 0){
+    console.log(`${ano} é ano bissexto.`)
+   }
+   else{
+    console.log(`${ano} não é ano bissexto.`)
+   }
 }
-console.log(validarAnoBissexto(0))
-console.log(validarAnoBissexto(4))
-console.log(validarAnoBissexto(100))
-console.log(validarAnoBissexto(400))
-console.log(validarAnoBissexto(2020))
-console.log(validarAnoBissexto(2021))
-console.log(validarAnoBissexto(2048))
+
+verificarAnoBissexto(1)
+verificarAnoBissexto(4)
+verificarAnoBissexto(100)
+verificarAnoBissexto(102)

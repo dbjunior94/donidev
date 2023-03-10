@@ -1,7 +1,7 @@
-//Closure é o escopo criado quando uma função é declarada
-// Esse escopo permite a função acessar e manipular variáveis externas à função
+// Closure é o escopo criado quando uma função é declarada
+// Esse escopo permite a função acessar e manipular variáveis externas à função 
 
-//Contexto léxico em ação:
+// Contexto léxico em ação!
 
 const x = 'Global'
 
@@ -12,6 +12,5 @@ function fora(){
     }
     return dentro
 }
-
 const minhaFuncao = fora()
 console.log(minhaFuncao())

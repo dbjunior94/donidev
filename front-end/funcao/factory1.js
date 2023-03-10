@@ -1,6 +1,6 @@
-// Factory simples 
+//Factory simples
 function criarPessoa(){
-    return{
+    return {
         nome: 'Ana',
         sobrenome: 'Silva'
     }

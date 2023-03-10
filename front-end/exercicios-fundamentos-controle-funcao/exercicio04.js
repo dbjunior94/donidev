@@ -1,7 +1,8 @@
-function divisao(dividendo, divisor){
-    console.log("Resultado: " + 
-    Math.floor(dividendo/divisor))
-    console.log(`Resto: ${dividendo % divisor}`)
+function ObterDivisaoEResto(dividendo, divisor){
+  let divisao = dividendo/divisor
+  let resto = dividendo % divisor
+  console.log(divisao, resto)
 }
 
-divisao(11,4)
+ObterDivisaoEResto(25, 5)
+ObterDivisaoEResto(25, 2)

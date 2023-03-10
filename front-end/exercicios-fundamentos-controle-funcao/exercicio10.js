@@ -1,13 +1,12 @@
-function DivisivelporTres(numero){
-    if(numero % 3 == 0){
+function divisivelPorTres(numeroInteiro){
+    if(numeroInteiro % 3 == 0){
         return true
-    }else{
+    } else{ 
         return false
     }
 }
-console.log(DivisivelporTres(5))
-console.log(DivisivelporTres(6))
-console.log(DivisivelporTres(90))
-console.log(DivisivelporTres(3))
-console.log(DivisivelporTres(2))
-console.log(DivisivelporTres(150))
+
+console.log(divisivelPorTres(30))
+console.log(divisivelPorTres(25))
+console.log(divisivelPorTres(567))
+console.log(divisivelPorTres(554))

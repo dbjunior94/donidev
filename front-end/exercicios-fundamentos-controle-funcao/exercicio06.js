@@ -1,9 +1,9 @@
-function jurosSimples(capitalInicial, taxa, tempo){
-    return capitalInicial + (capitalInicial * taxa * tempo)
+function JurosSimples(capitalInicial, taxaJuros, tempoAplicacao){
+    return capitalInicial + ( capitalInicial * taxaJuros * tempoAplicacao)
+}
+function JurosComposto(capitalInicial, taxaJuros, tempoAplicacao){
+    return capitalInicial * (1 + taxaJuros) ** tempoAplicacao
 }
 
-function jurosComposto(capitalInicial, taxa, tempo){
-    return capitalInicial * (1 + taxa) ** tempo
-}
-console.log(jurosSimples(100, 10/100, 2))
-console.log(jurosComposto(100, 10/100, 2))
+console.log(JurosSimples(100, 10/100, 2))
+console.log(JurosComposto(100, 10/100, 2))

@@ -1,11 +1,14 @@
-function tiposDeTriangulos(a,b,c) {
-    if(a == b && b == c){
+function verificaTriangulo(lado1, lado2, lado3){
+    if(lado1 == lado2 && lado2 == lado3){
         console.log('Equilátero')
-    }else if (a== b || b==c || a==c) {
-        console.log("Isósceles")
-    } else {3
-        console.log("Escaleno")
-    }
+    } else if(lado1 == lado2 ||
+        lado2 == lado3 || lado1 == lado3){
+            console.log('Isósceles')
+        }else{
+            console.log('Escaleno')
+        }
 }
 
-tiposDeTriangulos(1, 1, 1)
+verificaTriangulo(3, 3, 3)
+verificaTriangulo(3, 2, 3)
+verificaTriangulo(1, 3, 2)

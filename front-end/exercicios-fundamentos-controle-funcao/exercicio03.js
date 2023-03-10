@@ -1,7 +1,7 @@
-function elevarUmNumeroAoQuadrado(base, expoente){
-  resultado = base ** expoente
-
-  return resultado
+function elevarBasepeloExpoente(base, expoente){
+    let elevador = Math.pow(base, expoente)
+    console.log(elevador)
 }
 
-console.log(elevarUmNumeroAoQuadrado(2,3))
+elevarBasepeloExpoente(5, 2)
+elevarBasepeloExpoente(2, 3)

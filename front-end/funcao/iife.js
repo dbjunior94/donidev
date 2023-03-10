@@ -1,6 +1,6 @@
 // IIFE -> Immediately Invoked Function Expression
 
-(function() {
+(function(){
     console.log('Será executado na hora!')
-    console.log('Foge do escopo mais abrangente!')
+    console.log('Foge no escopo mais abrangente!')
 }) ()
