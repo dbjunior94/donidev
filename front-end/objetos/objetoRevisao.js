@@ -12,23 +12,23 @@ console.log(produto)
 const carro = {
     modelo: 'A4',
     valor: 89000,
-    proprietario:{
+    proprietario: {
         nome: 'Raul',
         idade: 56,
-        endereco: {
+        endereco:{
             logradouro: 'Rua ABC',
             numero: 123
         }
     },
     condutores: [{
-        nome : 'Junior',
+        nome: 'Junior',
         idade: 19
     }, {
         nome: 'Ana',
         idade: 42
     }],
     calcularValorSeguro: function(){
-        // ... 
+        // ...
     }
 }
 
