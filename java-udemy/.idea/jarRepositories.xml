@@ -2,9 +2,24 @@
 <project version="4">
   <component name="RemoteRepositoriesConfiguration">
     <remote-repository>
+      <option name="id" value="cielo-mixed" />
+      <option name="name" value="Repository cielo release" />
+      <option name="url" value="https://nexus-release-corp.ccorp.local/repository/maven-snapshot-mixed/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cielo-release" />
+      <option name="name" value="Repository cielo release" />
+      <option name="url" value="https://nexus-release-corp.ccorp.local/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="central" />
       <option name="name" value="Central Repository" />
       <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cielo-snapshots" />
+      <option name="name" value="Repository cielo release" />
+      <option name="url" value="https://nexus-release-corp.ccorp.local/repository/maven-public-snapshot/" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="central" />
