@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="heranca" />
         <module name="enumeracoes" />
+        <module name="excecoes" />
       </profile>
     </annotationProcessing>
   </component>
