@@ -19,3 +19,5 @@ a
 1heranca/src/main/java/labs/entities/TaxPayer.java,c/5/c50b460728411429ce053fed92065ee6ce4bdf80
 c
 3heranca/src/main/java/labs/entities/Individual.java,2/c/2c9cea3826b9f09d4d793040be58ea57127ffdf9
+@
+excecoes/pom.xml,1/6/160cfe7dd1bf22f1d8d29acb7ae83a63cfb14f27
