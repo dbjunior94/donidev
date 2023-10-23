@@ -1,0 +1,20 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğÄ½ò8£Ì†ø³1
+f
+java:S1226$"DIntroduce a new variable instead of reusing the parameter "contato".(¶à¤†üÿÿÿÿ8¥Ì†ø³1
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(ùïÛùÿÿÿÿ8µÌ†ø³1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÄ‚ğ8¶Ì†ø³1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ôçôºüÿÿÿÿ8£Ò§ø³1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ñœ”š8í§ø³1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÄ‚ğ8—ğñø³1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ôçôºüÿÿÿÿ8¥–òø³1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ïı®üúÿÿÿÿ8¦–òø³1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÄ‚ğ8Ûàòø³1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ôçôºüÿÿÿÿ8®€óø³1
+]
+java:S1854$";Remove this useless assignment to local variable "contato".(¶à¤†üÿÿÿÿ8¼Ì†ø³1
+[
+java:S1854""9Remove this useless assignment to local variable "valor".(Í¬Šüÿÿÿÿ8½Ì†ø³1
+[
+java:S1854*"9Remove this useless assignment to local variable "valor".(Í¬Šüÿÿÿÿ8¾Ì†ø³1

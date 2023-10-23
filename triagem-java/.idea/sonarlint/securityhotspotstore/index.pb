@@ -35,3 +35,15 @@ k
 ;javaintermediario/src/main/java/aula58/TesteAutoboxing.java,6/b/6b208cd53138967c30b039d729d20d2837dfc85d
 h
 8javaintermediario/src/main/java/aula59/StaticImport.java,d/6/d648d5588e4014bad175173d18b0ef9be295c542
+k
+;javaintermediario/src/main/java/aula60/EscopoVariaveis.java,5/f/5f02cf83ec68f2f100ef733f004bc0696f1fad7b
+j
+:javaintermediario/src/main/java/aula62/ExemploVarargs.java,9/7/97d350d0e601023ca8a7945c59051e2cd05b61a0
+a
+1javaintermediario/src/main/java/aula60/Teste.java,f/7/f79e3b6024014b6f8e99e9ca7ed71450c65d996d
+r
+Bjavaintermediario/src/main/java/aula61/PassagemValorParametro.java,5/4/54db0162712dbc6f074aa53b82c574781de6bbfc
+c
+3javaintermediario/src/main/java/aula61/Contato.java,4/6/463ac82aa124946fbc041c8a603cb128dc3e24b0
+i
+9javaintermediario/src/main/java/aula63/ExemploPrintf.java,1/1/11e603517a21e35d67d55dcd6bedafe2ccfa5f8e

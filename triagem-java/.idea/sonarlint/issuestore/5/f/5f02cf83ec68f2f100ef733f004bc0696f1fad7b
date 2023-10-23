@@ -1,0 +1,15 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïá²¶
+`
+java:S3518K">Make sure "outroNum" can't be zero before doing this division.(……üáÿÿÿÿÿ8§É³ÿ±1
+Y
+java:S25899"7Remove this expression which always evaluates to "true"(ýü‡Ìûÿÿÿÿ8¨É³ÿ±1
+]	java:S125"<This block of commented-out lines of code should be removed.(²ºõÃûÿÿÿÿ8«É³ÿ±1
+U
+java:S1117"8Rename "valor" which hides the field declared at line 4.(ùÆÄ¹8­É³ÿ±1
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ8¯É³ÿ±1
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(Ã”…ªûÿÿÿÿ8°É³ÿ±1
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.( ¶›ýÿÿÿÿ8±É³ÿ±1
+T	java:S106?"9Replace this use of System.out or System.err by a logger.(È ¯q8²É³ÿ±1
+L
+java:S1481F"*Remove this unused "total" local variable.(óË üÿÿÿÿ8³É³ÿ±1
