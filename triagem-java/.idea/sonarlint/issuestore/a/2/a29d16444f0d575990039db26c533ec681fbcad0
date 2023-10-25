@@ -1,0 +1,11 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨ÖĞ8²ğú˜¶1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(†Î¼şÿÿÿÿ8Çğú˜¶1
+Y
+java:S1854"<Remove this useless assignment to local variable "contatos".(ğ“Ùˆ8Éğú˜¶1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÎÚˆá8Ëğú˜¶1
+q
+java:S1215 "TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(³›í¦8¸âš¶1
+v
+java:S1215""TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êİ§şÿÿÿÿ8‚Ÿš¶1
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(Ç¯Íıÿÿÿÿÿ8Ìğú˜¶1

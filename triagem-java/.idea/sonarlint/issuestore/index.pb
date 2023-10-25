@@ -47,3 +47,17 @@ c
 3javaintermediario/src/main/java/aula61/Contato.java,4/6/463ac82aa124946fbc041c8a603cb128dc3e24b0
 k
 ;javaintermediario/src/main/java/aula60/EscopoVariaveis.java,5/f/5f02cf83ec68f2f100ef733f004bc0696f1fad7b
+c
+3javaintermediario/src/main/java/aula64/Anonima.java,a/3/a30e19e2a734bffe1ff840144c34c137ed870c97
+d
+4javaintermediario/src/main/java/aula64/Externa2.java,1/5/154e7caf0ab8bbcfef0740ea5a8d18f2bc9d569c
+a
+1javaintermediario/src/main/java/aula64/Texto.java,e/6/e646bb33d313a324b60227746b4f65b4d0b851a4
+a
+1javaintermediario/src/main/java/aula65/Teste.java,0/9/09a402789b725f26eca54abf547747c368819528
+j
+:javaintermediario/src/main/java/aula65/InformacaoAula.java,6/f/6f7c6a35d2f010e385b576c31621921122ea0874
+c
+3javaintermediario/src/main/java/aula64/Externa.java,0/d/0d4653d9142c60712cbdaf8d17981e1503ea249a
+g
+7javaintermediario/src/main/java/aula66/ColetorLixo.java,a/2/a29d16444f0d575990039db26c533ec681fbcad0
