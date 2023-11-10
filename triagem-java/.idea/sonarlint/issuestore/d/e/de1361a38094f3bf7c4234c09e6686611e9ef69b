@@ -1,0 +1,12 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ìš±é8éí¿Úº1
+]	java:S125"<This block of commented-out lines of code should be removed.(ã˜¶öøÿÿÿÿ8ÿí¿Úº1
+L	java:S106"+Replace this use of System.out by a logger.(úÄœ³øÿÿÿÿ8€î¿Úº1
+{
+java:S2142!"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8€î¿Úº1
+L	java:S106"+Replace this use of System.out by a logger.(§øð³øÿÿÿÿ8î¿Úº1
+L	java:S106$"+Replace this use of System.out by a logger.(Ù» Çùÿÿÿÿ8‚î¿Úº1
+R
+java:S2446,"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8ƒî¿Úº1
+R
+java:S24461"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8„î¿Úº1

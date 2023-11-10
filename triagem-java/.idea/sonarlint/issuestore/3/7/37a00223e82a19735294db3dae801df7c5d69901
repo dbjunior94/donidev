@@ -1,0 +1,14 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úø”åşÿÿÿÿ8êÓíˆ¸1
+]
+java:S1854";Remove this useless assignment to local variable "thread3".(Ó§—Ôúÿÿÿÿ8ÂĞÎ‰¸1
+]
+java:S1854";Remove this useless assignment to local variable "thread2".(°¹ÎÌûÿÿÿÿ8İáÒ‰¸1
+]
+java:S1854";Remove this useless assignment to local variable "thread1".(‹‡Ñşÿÿÿÿÿ8°Ñ‰¸1
+N
+java:S1481",Remove this unused "thread1" local variable.(‹‡Ñşÿÿÿÿÿ8ÄĞÎ‰¸1
+N
+java:S1481",Remove this unused "thread2" local variable.(°¹ÎÌûÿÿÿÿ8ááÒ‰¸1
+N
+java:S1481",Remove this unused "thread3" local variable.(Ó§—Ôúÿÿÿÿ8°Ñ‰¸1

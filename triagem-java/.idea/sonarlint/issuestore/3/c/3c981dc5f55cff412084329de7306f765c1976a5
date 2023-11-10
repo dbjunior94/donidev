@@ -1,0 +1,25 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æÖÄ†8·Öâƒ»1
+W
+java:S1161":Add the "@Override" annotation above this method signature(“–ış8ÄÖâƒ»1
+C
+java:S1860	"&Synchronize on a new "Object" instead.(¬ïÁ³8˜íƒ»1
+L	java:S106
+"+Replace this use of System.out by a logger.(¦ˆû¼üÿÿÿÿ8ÅÖâƒ»1
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÅÖâƒ»1
+G	java:S106"+Replace this use of System.out by a logger.(²¥‡«8ÆÖâƒ»1
+C
+java:S1860"&Synchronize on a new "Object" instead.(â®‡8šíƒ»1
+L	java:S106"+Replace this use of System.out by a logger.(ƒ×‡Èşÿÿÿÿ8ÆÖâƒ»1
+W
+java:S1161":Add the "@Override" annotation above this method signature(“–ış8ÇÖâƒ»1
+C
+java:S1860"&Synchronize on a new "Object" instead.(â®‡8íƒ»1
+L	java:S106"+Replace this use of System.out by a logger.(š×êÍıÿÿÿÿ8ÈÖâƒ»1
+{
+java:S2142!"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÉÖâƒ»1
+L	java:S106%"+Replace this use of System.out by a logger.(ñøÃàøÿÿÿÿ8ÊÖâƒ»1
+C
+java:S1860'"&Synchronize on a new "Object" instead.(¬ïÁ³8íƒ»1
+L	java:S106("+Replace this use of System.out by a logger.(¡™ùúÿÿÿÿ8ÊÖâƒ»1
