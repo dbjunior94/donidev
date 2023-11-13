@@ -1,0 +1,15 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾†÷98¾Ú“·1
+X
+java:S1854";Remove this useless assignment to local variable "thread3".(ÖØÑã8“¾Ú“·1
+]
+java:S1854	";Remove this useless assignment to local variable "thread2".(•‰Ÿšøÿÿÿÿ8õİö“·1
+\
+java:S1854":Remove this useless assignment to local variable "thread".(—ˆ·Áşÿÿÿÿ8“¾Ú“·1
+M
+java:S1481"+Remove this unused "thread" local variable.(—ˆ·Áşÿÿÿÿ8•¾Ú“·1
+]	java:S125"<This block of commented-out lines of code should be removed.(¯çÔÒûÿÿÿÿ8•¾Ú“·1
+N
+java:S1481	",Remove this unused "thread2" local variable.(•‰Ÿšøÿÿÿÿ8–¾Ú“·1
+I
+java:S1481",Remove this unused "thread3" local variable.(ÖØÑã8ñ¢ø“·1

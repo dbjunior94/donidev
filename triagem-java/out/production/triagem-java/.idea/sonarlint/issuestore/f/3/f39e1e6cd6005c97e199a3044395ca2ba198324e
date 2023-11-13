@@ -1,0 +1,9 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åû•8ëƒÈ¹¸1
+p
+java:S1450"SRemove the "soma" field and declare it as a local variable in the relevant methods.(ÑªÔ˜8÷ƒÈ¹¸1
+L	java:S106"+Replace this use of System.out by a logger.(Ç—éúùÿÿÿÿ8ƒ„È¹¸1
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8„„È¹¸1
+`
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(á˜ ¶8ÕÕ…º¸1
