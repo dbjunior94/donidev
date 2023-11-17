@@ -1,0 +1,9 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Íáç8İ÷†Ï¼1
+L	java:S106"+Replace this use of System.out by a logger.(şˆš üÿÿÿÿ8ò÷†Ï¼1
+L	java:S106"+Replace this use of System.err by a logger.(Ñ€ñïúÿÿÿÿ8ó÷†Ï¼1
+G	java:S106"+Replace this use of System.out by a logger.(¢ÙšŞ8ô÷†Ï¼1
+R
+java:S1874"0Remove this use of "getBytes"; it is deprecated.(…­ÊËùÿÿÿÿ8÷÷†Ï¼1
+G	java:S106"+Replace this use of System.out by a logger.(ŸŞì¹8Î‡‰Ï¼1
+G	java:S106"+Replace this use of System.out by a logger.(µšÜŠ8¬™ÃÏ¼1

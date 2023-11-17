@@ -1,0 +1,27 @@
+
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(¦Šˆ¦üÿÿÿÿ8ÒØÅĞ¼1
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(é¬Îİøÿÿÿÿ8ÓØÅĞ¼1
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ïïçª8ÓØÅĞ¼1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Íáç8ÓØÅĞ¼1
+=
+java:S2129	" Remove this "String" constructor(×µç8ßØÅĞ¼1
+G	java:S106"+Replace this use of System.out by a logger.(€É¾Ï8ßØÅĞ¼1
+L	java:S106"+Replace this use of System.out by a logger.(ò¹É›üÿÿÿÿ8ßØÅĞ¼1
+G	java:S106"+Replace this use of System.out by a logger.(®íÃ…8àØÅĞ¼1
+L	java:S106"+Replace this use of System.out by a logger.(¦Šˆ¦üÿÿÿÿ8àØÅĞ¼1
+L	java:S106"+Replace this use of System.out by a logger.(é¬Îİøÿÿÿÿ8àØÅĞ¼1
+G	java:S106"+Replace this use of System.out by a logger.(Ïïçª8áØÅĞ¼1
+L	java:S106"+Replace this use of System.out by a logger.(ä«çïøÿÿÿÿ8áØÅĞ¼1
+G	java:S106"+Replace this use of System.out by a logger.(Ë‚›ù8áØÅĞ¼1
+L	java:S106"+Replace this use of System.out by a logger.(üíÈ¸úÿÿÿÿ8Êà¬÷¼1
+L	java:S106"+Replace this use of System.out by a logger.(Ï†Î­şÿÿÿÿ8Ëà¬÷¼1
+L	java:S106"+Replace this use of System.out by a logger.(³½İ¨ıÿÿÿÿ8Ìà¬÷¼1
+L	java:S106"+Replace this use of System.out by a logger.(ïĞ¹üÿÿÿÿ8Îà¬÷¼1
+G	java:S106"+Replace this use of System.out by a logger.(…ò‘³8Ğà¬÷¼1
+G	java:S106$"+Replace this use of System.out by a logger.(Ìœ­Î8Ñà¬÷¼1
+L	java:S106%"+Replace this use of System.out by a logger.(€ş×Ûúÿÿÿÿ8Óà¬÷¼1
+L	java:S106&"+Replace this use of System.out by a logger.(‰ö‘Áşÿÿÿÿ8Ôà¬÷¼1
+L	java:S106'"+Replace this use of System.out by a logger.(ÊÀ€éüÿÿÿÿ8Õà¬÷¼1

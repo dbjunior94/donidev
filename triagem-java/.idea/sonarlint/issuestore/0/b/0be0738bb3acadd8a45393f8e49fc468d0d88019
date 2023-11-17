@@ -1,4 +1,18 @@
 
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Íáç
-
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8ö±ÓÖ»1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Íáç8Ş‹¤É¼1
+=
+java:S2129" Remove this "String" constructor(¹¬ÂÈ8ë‹¤É¼1
+G	java:S106"+Replace this use of System.out by a logger.(Ç»®8ì‹¤É¼1
+B
+java:S2129	" Remove this "String" constructor(ÌÈÈúÿÿÿÿ8ì‹¤É¼1
+G	java:S106
+"+Replace this use of System.out by a logger.(ë¯í¾8í‹¤É¼1
+=
+java:S2129" Remove this "String" constructor(Úê¹£8í‹¤É¼1
+L	java:S106"+Replace this use of System.out by a logger.(ËÆ³Œúÿÿÿÿ8î‹¤É¼1
+L	java:S106"+Replace this use of System.out by a logger.(µÏŒ¢ùÿÿÿÿ8î‹¤É¼1
+L	java:S106"+Replace this use of System.out by a logger.(æ·ğ÷şÿÿÿÿ8ï‹¤É¼1
+G	java:S106"+Replace this use of System.out by a logger.(ÑŞ8ï‹¤É¼1
+L	java:S106"+Replace this use of System.out by a logger.(™åØ¯ıÿÿÿÿ8·ËÒÉ¼1
+L	java:S106!"+Replace this use of System.out by a logger.(‚¨úœûÿÿÿÿ8ğõäÉ¼1
+G	java:S106""+Replace this use of System.out by a logger.(î¬óè8ğõäÉ¼1
