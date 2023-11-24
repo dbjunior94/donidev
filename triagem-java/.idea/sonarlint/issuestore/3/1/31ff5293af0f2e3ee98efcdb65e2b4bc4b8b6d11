@@ -1,0 +1,16 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ¸ö–8ğêÚ¼¿1
+G	java:S106"+Replace this use of System.out by a logger.(¾àè8€ëÚ¼¿1
+G	java:S106"+Replace this use of System.out by a logger.(´¾ıŞ8‚ëÚ¼¿1
+L	java:S106"+Replace this use of System.out by a logger.(“¨®ğûÿÿÿÿ8„ëÚ¼¿1
+G	java:S106"+Replace this use of System.out by a logger.(¿œåú8…ëÚ¼¿1
+G	java:S106"+Replace this use of System.out by a logger.(¤ÅòÚ8†ëÚ¼¿1
+L	java:S106"+Replace this use of System.out by a logger.(„Îô£ıÿÿÿÿ8‡ëÚ¼¿1
+L	java:S106"+Replace this use of System.out by a logger.(Åêµúÿÿÿÿ8ˆëÚ¼¿1
+G	java:S106 "+Replace this use of System.out by a logger.(§»À±8ÁˆÖ½¿1
+L	java:S106$"+Replace this use of System.out by a logger.(­Õ¬ëûÿÿÿÿ8Ü½¿1
+G	java:S106'"+Replace this use of System.out by a logger.(ÀÖ¨·8úäİ½¿1
+F	java:S106*"+Replace this use of System.out by a logger.(Ğ°›n8à®ç½¿1
+L	java:S106-"+Replace this use of System.out by a logger.(²İÜûÿÿÿÿ8ç·î½¿1
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8çÍî½¿1
